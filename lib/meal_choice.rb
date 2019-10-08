@@ -1,4 +1,4 @@
-  def meal_choice
+  def meal_choice(protein="meat")
 
 
 
