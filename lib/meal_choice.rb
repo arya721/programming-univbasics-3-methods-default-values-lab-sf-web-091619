@@ -1,8 +1,7 @@
-  def meal_choice(protein="meat")
+# Your code here
 
-    puts "What a nutritious meal!"
-    puts "A plate of #{protein} with #{veg1} and #{veg2}."
-
-
-
-  end
+def meal_choice(veg1, protein = "meat" , veg2)
+  puts "A plate of #{protein} with #{veg1} and #{veg2}"
+  return "A plate of #{protein} with #{veg1} and #{veg2}."
+else
+end
